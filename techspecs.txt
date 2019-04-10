@@ -1,0 +1,37 @@
+What Displays?
+
+	Desktop/Laptop
+
+What browsers?
+	At least Chrome/Firefox
+
+Languages?
+	HTML/CSS/Javascript
+
+3rd Party?
+	Google Maps
+	Climbing Project API (Not open but returned as a JSON)
+
+User Stories
+
+	Who, what  why
+
+climber - consumer
+	climber, find the nearest route within my difficulty range, don't waste time searching
+
+	climber, i would like to see pictures/ratings of nearby routes, climb what everyone else says they enjoy
+
+	climber, check in and provide feedback, share my experiences
+	
+	
+business
+
+	business owner, what is the most common difficulty, create a class geared towards improvement
+
+	state parks, what is the most commonly searched route/wall, provide more maintenance
+
+
+developer
+
+
+tech specs, user stories, user journey, wireframes
